@@ -134,7 +134,6 @@
  
   ## 
   ### Contribuições
-
   ![Snake animation](https://github.com/givisiez/givisiez/blob/output/github-contribution-grid-snake.svg)
   
   
