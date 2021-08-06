@@ -14,7 +14,7 @@
 
  ##
  
- ### Linguagens que trabalho
+ ### Linguagens/ ferramentas que trabalho
  
 <div>  
  <img 
@@ -121,6 +121,38 @@
        width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
  >  
+ <img 
+       align="center" 
+       alt="GitLab" 
+       title="GitLab" 
+       height="30" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"
+ > 
+ <img 
+       align="center" 
+       alt="NPM" 
+       title="NPM" 
+       height="30" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"
+ >
+ <img 
+       align="center" 
+       alt="Docker" 
+       title="Docker" 
+       height="30" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg"
+ >
+ <img 
+       align="center" 
+       alt="VsCode" 
+       title="VsCode" 
+       height="30" 
+       width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
+ > 
 </div>
 
 ##
