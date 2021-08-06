@@ -1,10 +1,5 @@
 ## Olá Dev, Leandro Givisiez aqui! 🖖🤘
- <div>
-  <a 
-     href="https://givisiez.dev.br" 
-     target="_blank" 
-     title="Site pessoal"
-  >
+ <div>  
    <img 
         height="180em" 
         width="400em" 
@@ -14,8 +9,7 @@
         height="180em" 
         width="400em" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=givisiez&layout=compact&langs_count=7&theme=tokyonight&custom_title=Linguagens mais usadas"
-   />    
-  </a>
+   /> 
 </div>
 
  ##
@@ -144,7 +138,22 @@
   
   
   ##
-<div>
- <img src="https://komarev.com/ghpvc/?username=givisiez&color=green" alt="SEUUSUARIO" />  
+  ### Games/ Lazer
+  
+<div> 
+ <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" alt="xbox" />
+ <img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" alt="Nintendo Switch" />
+ <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PS" />
+ <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />  
+ <img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" alt="cs" /> 
+ <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="spotify" /> 
+</div>
+
+
+
+ ##  
+ 
+<div> 
+ <img src="https://komarev.com/ghpvc/?username=givisiez&color=green" alt="visitas" /> 
 </div>
  
