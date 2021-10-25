@@ -1,4 +1,4 @@
-## Olá Dev, Leandro Givisiez aqui! 🖖🤘
+## Olá, Leandro Givisiez aqui! 🖖🤘
  <div>  
    <img 
         height="180em" 
