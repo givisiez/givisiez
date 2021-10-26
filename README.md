@@ -14,8 +14,6 @@
 
  ##
  
- ### Linguagens/ ferramentas que trabalho
- 
 <div>  
  <img 
        align="center" 
